@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Java Script\BossMonster.js">
+    <Files>
+      <File FileName="Assets\Java Script\PlayerStatus.js" Line="63" Column="27" />
+      <File FileName="Assets\Java Script\BossMonster.js" Line="13" Column="34" />
+      <File FileName="Assets\Java Script\Monster.js" Line="1" Column="1" />
+      <File FileName="Assets\Java Script\EyeMonster.js" Line="1" Column="1" />
+      <File FileName="Assets\Java Script\MonsterMoveSoundEffect.js" Line="1" Column="1" />
+      <File FileName="Assets\Java Script\MonsterSoundEffect.js" Line="1" Column="1" />
+      <File FileName="Assets\Java Script\PlayerSoundEffect.js" Line="1" Column="1" />
+      <File FileName="Assets\Java Script\PlayerStatus.js" Line="68" Column="2" />
+      <File FileName="Assets\Java Script\lava.js" Line="1" Column="1" />
+      <File FileName="Assets\Java Script\BossMonsterMove.js" Line="1" Column="1" />
+      <File FileName="Assets\Java Script\BossDeadSE.js" Line="1" Column="1" />
+      <File FileName="Assets\Java Script\FirstAid.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
