@@ -17,21 +17,21 @@
 
 화면 오른쪽 상단 : 총알 개수  
 
-플레이어 이동 및 발사  
+  ### 플레이어 이동 및 발사  
+  
+  이동키 :  WASD 키  
+  
+  점프 : space 바  
+  
+  발사 : 마우스 왼쪽 클릭  
 
-이동키 :  WASD 키  
-
-점프 : space 바  
-
-발사 : 마우스 왼쪽 클릭  
-
-아이템  
-
-<img src = 'https://github.com/LeeHayoung0807/Dungeon-Game/assets/73875317/3cf5799d-bbd3-40fe-b52e-7a35c7991911'>
-체력상자 : 플레이어의 체력 10 증가 (플레이어의 체력은 100이상 올라가지 않습니다)  
-
-<img src = 'https://github.com/LeeHayoung0807/Dungeon-Game/assets/73875317/b33afd1c-3368-4f96-87bb-0a6ef5087609'>
-무기상자 : 플레이어의 총알 10 증가
+  ### 아이템  
+  
+  <img src = 'https://github.com/LeeHayoung0807/Dungeon-Game/assets/73875317/3cf5799d-bbd3-40fe-b52e-7a35c7991911' width = 200 height = 200>
+  체력상자 : 플레이어의 체력 10 증가 (플레이어의 체력은 100이상 올라가지 않습니다)  
+  
+  <img src = 'https://github.com/LeeHayoung0807/Dungeon-Game/assets/73875317/b33afd1c-3368-4f96-87bb-0a6ef5087609' width = 300 height = 200>
+  무기상자 : 플레이어의 총알 10 증가
 
 
 
