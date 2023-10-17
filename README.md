@@ -41,9 +41,9 @@
   총알상자 : 플레이어의 총알 10 증가</br>
 
   ### 엔딩
-  <img src = 'https://github.com/LeeHayoung0807/Dungeon-Game/assets/73875317/831d463a-b92a-45fc-b61e-aa0e6d3705d8'></br>
+  <img src = 'https://github.com/LeeHayoung0807/Dungeon-Game/assets/73875317/831d463a-b92a-45fc-b61e-aa0e6d3705d8' width = 600 height = 500></br>
   클리어 엔딩 : 마지막 3 스테이지를 클리어하여 던전을 탈출한 엔딩</br>
-  <img src = 'https://github.com/LeeHayoung0807/Dungeon-Game/assets/73875317/c12d3d34-7adf-4eef-8bc9-d26e11aa5e15'></br>
+  <img src = 'https://github.com/LeeHayoung0807/Dungeon-Game/assets/73875317/c12d3d34-7adf-4eef-8bc9-d26e11aa5e15' width = 600 height = 500></br>
   데드 엔딩 : 몬스터에게 공격 당해 체력이 0이 되거나 용암에 떨어진 엔딩</br>
 
 # 외부 소스 출처
