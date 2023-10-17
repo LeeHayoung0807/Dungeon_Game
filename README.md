@@ -14,6 +14,8 @@
 
 총 3 스테이지로 이루어져 있으며 각 스테이지마다 출현하는 몬스터가 다릅니다. 마지막 스테이지의 보스 몬스터를 처치하고 체력이 0이 되기 전에 무사히 던전을 빠져 나가야합니다.  
 
+체력상자와 총알상자는 던전 일부에 배치되어 있으며 몬스터를 처치할 시 랜덤으로 체력상자 또는 총알상자를 얻을 수 있습니다.
+
 # 게임 플레이
 <img src = 'https://github.com/LeeHayoung0807/Dungeon-Game/assets/73875317/9f256907-679d-4413-b9e4-4540fe77d7b3'>
 <img src = 'https://github.com/LeeHayoung0807/Dungeon-Game/assets/73875317/7ef2aeac-847c-4fcb-bd36-5878a3ca081c'>  
