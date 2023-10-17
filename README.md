@@ -11,7 +11,7 @@
 <img src = 'https://github.com/LeeHayoung0807/Dungeon-Game/assets/73875317/9f256907-679d-4413-b9e4-4540fe77d7b3'>
 <img src = 'https://github.com/LeeHayoung0807/Dungeon-Game/assets/73875317/7ef2aeac-847c-4fcb-bd36-5878a3ca081c'>  
 
-게임 플레이 예시  
+(게임 플레이 예시)  
 
 화면 왼쪽 상단 : 체력  
 
@@ -29,9 +29,10 @@
   
   <img src = 'https://github.com/LeeHayoung0807/Dungeon-Game/assets/73875317/3cf5799d-bbd3-40fe-b52e-7a35c7991911' width = 100 height = 100>
   체력상자 : 플레이어의 체력 10 증가 (플레이어의 체력은 100이상 올라가지 않습니다)  
+
   
   <img src = 'https://github.com/LeeHayoung0807/Dungeon-Game/assets/73875317/b33afd1c-3368-4f96-87bb-0a6ef5087609' width = 100 height = 80>
-  총알상자 : 플레이어의 총알 10 증가
+  총알상자 : 플레이어의 총알 10 증가  
 
 
 
