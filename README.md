@@ -1,4 +1,2 @@
-# Dungeon Game 1인칭 슈팅 게임
-Unity3D로 제작한 1인칭 슈팅게임입니다. 1인 프로젝트로 진행하였습니다. 
-(학교 기말과제)
-
+# Dungeon Game
+![메인화면](./images/main.png)
