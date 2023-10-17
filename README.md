@@ -40,5 +40,12 @@
   <img src = 'https://github.com/LeeHayoung0807/Dungeon-Game/assets/73875317/b33afd1c-3368-4f96-87bb-0a6ef5087609' width = 100 height = 80>
   총알상자 : 플레이어의 총알 10 증가  
 
-
+# 외부 소스 출처
+일부 모델</br>
+권총, 무기박스 : free3d</br>
+3스테이지 몬스터, 보스 몬스터 : turbosquid</br>
+</br>
+텍스쳐 이미지 : pixabay</br>
+폰트 : 구글 폰트, fontspace</br>
+사운드 : 유튜브 스튜디오 오디오 보관함, 유튜브 데이드림사운드 채널
 
