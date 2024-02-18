@@ -2,6 +2,9 @@
 <img src = 'https://github.com/LeeHayoung0807/Dungeon-Game/assets/73875317/1dddbaff-0fa5-4d6f-957d-827a5eeb312c'>
 몬스터를 해치우며 던전을 탈출하는 1인칭 슈팅 게임입니다.
 
+# 플레이 영상
+https://youtu.be/GudIKCpKhM0
+
 # 개요
 프로젝트 언어 : Java Script  
 
